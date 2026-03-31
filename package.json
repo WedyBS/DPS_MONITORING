@@ -1,0 +1,27 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@flowfuse/node-red-dashboard": "~1.29.0",
+        "@flowfuse/node-red-dashboard-2-ui-led": "~1.1.0",
+        "@halsystems/red-bacnet": "~1.0.20",
+        "node-bacnet-contrib-extended": "~0.2.0",
+        "node-red-contrib-bacnet": "^0.3.0",
+        "node-red-contrib-image-tools": "~2.1.1",
+        "node-red-contrib-modbus": "~5.43.0",
+        "node-red-contrib-os": "~0.2.1",
+        "node-red-contrib-panasonic-comfort-cloud": "^1.5.1",
+        "node-red-contrib-play-audio": "~2.5.0",
+        "node-red-contrib-play-soundfile": "~0.0.7",
+        "node-red-contrib-simpletime": "~3.0.2",
+        "node-red-contrib-telegrambot": "^15.1.11",
+        "node-red-contrib-ui_j": "~1.2.19",
+        "node-red-contrib-ui-led": "~0.4.11",
+        "node-red-contrib-ui-media": "~1.2.0",
+        "node-red-node-ping": "~0.3.3",
+        "node-red-node-ui-lineargauge": "~0.3.7",
+        "node-red-trigger-atleast-every-x": "~1.1.0"
+    }
+}

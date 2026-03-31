@@ -1,0 +1,161 @@
+{
+    "_": {
+        "editor": {
+            "view": {
+                "view-store-zoom": false,
+                "view-store-position": false,
+                "view-show-grid": true,
+                "view-snap-grid": true,
+                "view-grid-size": "20",
+                "view-node-status": true,
+                "view-node-show-label": true,
+                "view-show-tips": true,
+                "view-show-welcome-tours": true
+            },
+            "tours": {
+                "welcome": "4.0.9"
+            },
+            "dialog": {
+                "export": {
+                    "pretty": false,
+                    "json-view": true
+                }
+            }
+        },
+        "menu-menu-item-sidebar": true,
+        "debug": {
+            "filter": "filterSelected",
+            "filteredNodes": [
+                "0efa85c03dd2a886",
+                "68a745ef2dfbfdbe",
+                "dc05c9fc3ce410d8",
+                "77062f4b2ce13de6",
+                "9b568cbce814c228",
+                "6e93225bd134f9bb",
+                "442d21bffda70bbf",
+                "696da153fa94ae17",
+                "4448aebb55dc3851",
+                "85364571d2260fd6",
+                "79a334e8643d00e3",
+                "a53a7897efdbb85b",
+                "e41554ae346be4a9",
+                "61a51807751d7aa4",
+                "adb5203ad80d8b70",
+                "584541bf755a7121",
+                "4718b1b07fbe6503",
+                "88e419329d621be7",
+                "0efb45eb483b2df0",
+                "676167fbc89a6f4f",
+                "b8eb7ab1c58832a4",
+                "669cbacb6839a029",
+                "7a307e4a2b177513",
+                "34625e0bea0cacd2",
+                "f90cf67f77922656",
+                "1999bec21fb3dfd7",
+                "379764697937b7f2",
+                "a3d0ec49b2ee9fdb",
+                "960f088088a520db",
+                "a59690dbc21b2c30",
+                "d6b8528992b0ede9",
+                "6f6bc675ac9dba48",
+                "4bdc0e586a17600b",
+                "c67b0f1b9cbbcc9a",
+                "6bebe647bb42def4",
+                "046ea1730badabe0",
+                "46b65228bfc68944",
+                "19e58e03fc77f9dd",
+                "debug",
+                "23f67bde54b41e32",
+                "2facc8f1b540e0ae",
+                "2fe54ef0227fe140",
+                "99796228acdf5408",
+                "c0e497c8557e64eb",
+                "3cee11dd619270c5",
+                "9c53d18750722477",
+                "e03c1b043371ab14",
+                "cc186d0f89424d94",
+                "a8085232d55406bd",
+                "7cac85b86ca52a85",
+                "23ecf919f1ec2944",
+                "31a71f48ae68e108",
+                "a6a7a1a1263dd2e1",
+                "7ecb4fb9120c565a",
+                "9f450e1d444c2b25",
+                "12edf2d209c631b6",
+                "e55137265f8787a8",
+                "4d604bdb9b24c3ec",
+                "8a03e28cc160e766",
+                "7cd8750761b0f99b",
+                "acde96e139f9a084",
+                "9434653935caea93",
+                "11d9bd5ec24bb953",
+                "a1dd873e0f5abd5e",
+                "4f98855bb2837344",
+                "c64e5d29b2ac5906",
+                "ec0788147f3cf4e7",
+                "bd9683e0d36308e9",
+                "221f49382a38adac",
+                "ccb06aab0675d74e",
+                "57e89fb87b75b643",
+                "57ff6979a24c7f5c",
+                "09772ed8da92bda7",
+                "ad8160a622cea963",
+                "e6ad99ad17872a57",
+                "69b91abb0864229a",
+                "f4688678c9175388",
+                "10b6bf5b8d220966",
+                "4ac7ab33eebac8e1",
+                "3434fad4f561d901",
+                "fa6f6e107c35e851",
+                "da40cce4ed023fe3",
+                "5572fb3342bb7531",
+                "7a325a100d75795d",
+                "622aa0cec0c31f93",
+                "18a074a7e8296bf4",
+                "fa0df3a4564cffa2",
+                "7c63c8629758519f",
+                "71c0ccc1afcd7723",
+                "99297e5056a4f8ef",
+                "4b0d46ffc9329345",
+                "28284fe11042b1e8",
+                "0e162ae01be21626",
+                "62efe77b6fc613cb",
+                "7fff7d041fd73cab",
+                "55524eebb35830d2",
+                "8960a842636dc6c0",
+                "12b466f3a44752d6",
+                "8f924a318cb3ff5a",
+                "ad1e21d92944e18e",
+                "5b66d9312bcb2297",
+                "e4d14d762ad27a20",
+                "ba7f683cd0b638d5",
+                "c4b1923674202ba2"
+            ]
+        }
+    },
+    "dpsess2025": {
+        "editor": {
+            "view": {
+                "view-store-zoom": false,
+                "view-store-position": false,
+                "view-show-grid": true,
+                "view-snap-grid": true,
+                "view-grid-size": "20",
+                "view-node-status": true,
+                "view-node-show-label": true,
+                "view-show-tips": true,
+                "view-show-welcome-tours": true
+            },
+            "tours": {
+                "welcome": "4.0.9"
+            },
+            "dialog": {
+                "export": {
+                    "pretty": true,
+                    "json-view": true
+                }
+            }
+        },
+        "menu-menu-item-sidebar": true
+    }
+}
